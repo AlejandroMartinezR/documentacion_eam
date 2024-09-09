@@ -12,3 +12,6 @@ markdown_extensions:
       permalink: true
   - footnotes
   - tables
+
+  # Configuración para GitHub Pages
+site_url: https://AlejandroMartinezR.github.io/documentacion_eam
