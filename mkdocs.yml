@@ -1,0 +1,14 @@
+site_name: Gmovil (HxGN EAM)
+nav:
+  - Home: index.md
+  - Guía de Uso:
+      - Introducción: guia/intro.md
+      - Características: guia/caracteristicas.md
+      - Ejemplos: guia/ejemplos.md
+theme: readthedocs
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - footnotes
+  - tables
